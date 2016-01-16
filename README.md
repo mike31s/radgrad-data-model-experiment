@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # radgrad-data-model-experiment
 =======
 # RadGrad Data Model Example
@@ -38,7 +38,7 @@ The following Addtions have been made
        description: "Continue where ICS 314 left off and build the greatest web application of all time.",
        tags: ["software-engineering", "silicon-valley"]
      }
-   ];
+   
 
 
 ##Define one new degree goal, “Network Engineer”, and another one of your own choosing.
@@ -72,7 +72,6 @@ The following Addtions have been made
 
 ##  Define four new Tags of your own choosing. They should be useful and relevant to computer science students.
 
-   {](http://localhost:3000) will display the following:
 
       name: "NSA Employee",
       slug: "nsa-employee",
@@ -100,6 +99,5 @@ The following Addtions have been made
   ];
 
 ##Define two new students. Each student should have at least four course instances, and four opportunity instances. Make sure all of your new additions are incorporated into the student profile definitions.
-![](https://raw.githubusercontent.com/radgrad/data-model-example/master/doc/images/sample-data-model-home-page.png)
+![](https://raw.githubusercontent.com/mike31s/radgrad-data-model-experiment/master/doc/images/sample.png)
 
->>>>>>> template/master
