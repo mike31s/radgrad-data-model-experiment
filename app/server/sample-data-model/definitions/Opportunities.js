@@ -19,6 +19,26 @@ defineOpportunities = function() {
       tags: ["software-engineering", "silicon-valley"],
       startActive: moment("2015-01-12").toDate(),
       endActive: moment("2016-02-12").toDate()
+    },
+    {
+      name: "IEEE Student Branch",
+      slug: "ieee-manoa",
+      description: "IEEE Student Chapter",
+      opportunityType: "club",
+      sponsor: "henricasanova",
+      tags: [ "silicon-valley"],
+      startActive: moment("2015-01-12").toDate(),
+      endActive: moment("2016-02-12").toDate()
+    },
+    {
+      name: "ITMA Business Club",
+      slug: "itma-manoa",
+      description: "Information Technology Managment Association Club at Manoa",
+      opportunityType: "club",
+      sponsor: "henricasanova",
+      tags: [ "silicon-valley"],
+      startActive: moment("2015-01-12").toDate(),
+      endActive: moment("2016-02-12").toDate()
     }
   ];
 
