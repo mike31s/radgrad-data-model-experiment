@@ -24,6 +24,30 @@ defineTags = function() {
       slug: "data-scientist",
       description: "Combine statistics, data mining, and predictive analytics to gain insight from large data sets.",
       tagType: "professional-goals"
+    },
+    {
+      name: "NSA Employee",
+      slug: "nsa-employee",
+      description: "Work for the DoD and provide signals intelligence.",
+      tagType: "professional-goals"
+    },
+    {
+      name: "Entrepreneur",
+      slug: "entrepreneur",
+      description: "Work for yourself by creating a unique business plan.",
+      tagType: "professional-goals"
+    },
+    {
+      name: "Bioinformatics",
+      slug: "bioinformatics",
+      description: "Combine statistics, biology, and predictive analytics to gain insight from large data sets relating to the human body.",
+      tagType: "cs-disciplines"
+    },
+    {
+      name: "Computer Engineering",
+      slug: "ceng",
+      description: "The study of computer related technologies including electrophysics, hardware and software.",
+      tagType: "cs-disciplines"
     }
   ];
 
